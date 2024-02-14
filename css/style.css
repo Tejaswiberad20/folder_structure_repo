@@ -4,3 +4,8 @@
 .h2{
     color:aqua;
 }
+.btn{
+    background-color: red;
+    padding:20px;
+    margin: 10px;;
+}
